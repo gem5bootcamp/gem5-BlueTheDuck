@@ -1,6 +1,7 @@
 # Cache Coherence HW1
 
-[EXCEL SHEET WITH ALL THE DATA](https://docs.google.com/spreadsheets/d/1WDgLFqU8LjNjcCGEVGp0CtAdB828Yn0poPHu3G3HMVE/edit?usp=sharing)
+The spreadsheet with the data used can be found here:
+- https://docs.google.com/spreadsheets/d/1WDgLFqU8LjNjcCGEVGp0CtAdB828Yn0poPHu3G3HMVE/edit?usp=sharing
 
 ## Question 1
 
